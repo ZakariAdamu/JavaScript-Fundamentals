@@ -1,0 +1,15 @@
+{
+  "name": "jestassignment",
+  "version": "1.0.0",
+  "description": "Task 1: Add Jest as a devDependency\r Open terminal. Make sure that it's pointing to jest-testing directory.\r Install the jest npm package using the npm install command and the --save-dev flag.\r Verify that the installation was completed successfully by opening the package.json file and confirming that the \"devDependencies\" entry lists jest similar to the following:",
+  "main": "timesTwo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
